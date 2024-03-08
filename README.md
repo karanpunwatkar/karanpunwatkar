@@ -1,9 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm Karan Punwatkar</h1>
 <h3 align="center">A passionate Software Engineer from india</h3>
 <img align="right" alt="coding" width ="300" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpunwatkar&label=Profile%20views&color=0e75b6&style=flat" alt="karanpunwatkar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpunwatkar" alt="karanpunwatkar" /></a> </p>
+
 - 🌱 I’m currently learning **data structure using c++**
+
+- 💬 Ask me about **C++, Python, DSA**
 
 - 📫 How to reach me **kpunwatkar8@gmail.com**
 
@@ -24,3 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanpunwatkar&show_icons=true&locale=en&layout=compact" alt="karanpunwatkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanpunwatkar&show_icons=true&locale=en" alt="karanpunwatkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpunwatkar&" alt="karanpunwatkar" /></p>
+
