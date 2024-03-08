@@ -21,6 +21,7 @@
 <a href="https://instagram.com/karan_punwatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_punwatkar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/karan punwatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karan punwatkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kpunwatkar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kpunwatkar8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karan punwatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan punwatkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/karanpunwatkar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karanpunwatkar22" height="30" width="40" /></a>
 </p>
 
