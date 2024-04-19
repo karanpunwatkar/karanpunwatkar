@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Karan Punwatkar</h1>
-<h3 align="center">A passionate Software Engineer from india</h3>
+<h3 align="center">A passionate DevOps from india</h3>
 <img align="right" alt="coding" width ="200" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpunwatkar&label=Profile%20views&color=0e75b6&style=flat" alt="karanpunwatkar" /> </p>
