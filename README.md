@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpunwatkar" alt="karanpunwatkar" /></a> </p>
 
-- 🌱 I’m currently learning **data structure using c++**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **C++, Python, DSA**
 
