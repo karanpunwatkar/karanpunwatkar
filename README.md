@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, Python, DSA**
 
-- 📫 How to reach me **kpunwatkar8@gmail.com**
+- 📫 How to reach me **karan.p.code.23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
