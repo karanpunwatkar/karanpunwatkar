@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpunwatkar" alt="karanpunwatkar" /></a> </p>
 
-- 🌱 I’m currently learning **"MERN STACK"**
+- 🌱 **Currently Exploring:** "Technologies We Use Every Day" to understand how innovation impacts daily life.
 
 - 💬 Ask me about **C++, Python, DSA**
 
