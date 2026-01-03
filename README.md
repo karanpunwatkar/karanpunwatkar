@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpunwatkar" alt="karanpunwatkar" /></a> </p>
 
-- 🌱 **Currently Exploring:** "Technologies We Use Every Day" to understand how innovation impacts daily life.
+- 🚀 **Founder & Developer** passionate about **Data Structures & Algorithms**, **backend systems**, and **product-driven development**.
+I enjoy building **scalable solutions**, designing **efficient APIs**, and turning ideas into **impactful software products**.
+
 
 - 💬 Ask me about **C++, Python, DSA**
 
