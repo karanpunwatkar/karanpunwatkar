@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpunwatkar&label=Profile%20views&color=0e75b6&style=flat" alt="karanpunwatkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpunwatkar" alt="karanpunwatkar" /></a> </p>
-
 - 🚀 **Founder & Developer** passionate about **Data Structures & Algorithms**, **backend systems**, and **product-driven development**.
 I enjoy building **scalable solutions**, designing **efficient APIs**, and turning ideas into **impactful software products**.
 
